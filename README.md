@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ERFANERI
-- 👀 I’m interested in Web Developement
+- 🌐 I’m interested in Web Developement
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on small/medium sized Projects
 - 📫 How to reach me: My INSTAGRAM @erfanerionline
